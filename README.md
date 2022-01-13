@@ -1,2 +1,2 @@
 # PythonProjects
-Consists of all Python Projects
+Consists of code for the Projects
